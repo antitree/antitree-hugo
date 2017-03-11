@@ -1,0 +1,71 @@
+{{ partial "header.html" . }}
+{{ $baseurl := .Site.BaseURL }}
+
+<div class="row">
+	<div class="twelve columns">
+		<h2>{{ .Title }}</h2>
+	</div>
+</div>
+
+<div class="row">
+	<div class="one columns">
+		<i class="fa fa-envelope-o fa-2x"></i>
+	</div>
+	<div class="eight columns" style="padding-top:1em;">
+		<a href="mailto:{{ .Site.Params.contactEmail }}">{{ .Site.Params.contactEmail }}</a>
+	</div>
+</div>
+<div class="row">
+	<div class="one columns">
+        <i class="fa fa-twitter fa-2x"></i>
+    </div>
+	<div class="eight columns" style="padding-top:1em;">
+		<a href="https://twitter.com/{{ .Site.Params.contactTwitter }}">@{{ .Site.Params.contactTwitter }}</a>
+    </div>
+</div>
+
+
+<div class="row">
+        <div class="one columns">
+        <i class="fa fa-reddit fa-2x"></i>
+    </div>
+        <div class="eight columns" style="padding-top:1em;">
+                <a href="https://www.reddit.com/user/{{ .Site.Params.contactReddit }}">{{ .Site.Params.contactReddit }}</a>
+    </div>
+</div>
+
+<div class="row">
+        <div class="one columns">
+        <i class="fa fa-globe fa-2x"></i>
+    </div>
+        <div class="eight columns" style="padding-top:1em;">
+                <a href="{{ .Site.Params.contactWebsite }}">{{ .Site.Params.contactWebsite }}</a>
+    </div>
+</div>
+
+<div class="row">
+        <div class="one columns">
+        <i class="fa fa-github fa-2x"></i>
+    </div>
+        <div class="eight columns" style="padding-top:1em;">
+                <a href="https://www.github.com/{{ .Site.Params.contactGithub }}">{{ .Site.Params.contactGithub }}</a>
+    </div>
+</div>
+
+<div class="row">
+        <div class="one columns">
+        <i class="fa fa-key fa-2x"></i>
+    </div>
+        <div class="eight columns" style="padding-top:1em;">
+		<a href="{{ .Site.Params.contactPGPLink }}">{{ .Site.Params.contactPGP }}</a>
+    </div>
+</div>
+
+
+<div class="row">
+	<div class="twelve columns">
+		&nbsp;
+	</div>
+</div>
+
+{{ partial "footer.html" . }}

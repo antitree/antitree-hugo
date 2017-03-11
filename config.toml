@@ -1,0 +1,53 @@
+baseurl = "https://www.antitree.com/"
+languageCode = "en-us"
+title = "antitree.com"
+theme = "rocktopus"
+GoogleAnalytics = ""
+paginate = 4
+MetaDataFormat = "toml"
+enableRobotsTXT = "true"
+[permalinks]
+    post = "/:year/:month/:title/"
+[taxonomies]
+    tags = "tags"
+    series = "series"
+[author]
+    name = "antitree"
+[params]
+    # supports either dark or light color scheme
+    colorscheme = "dark"
+    # text for the header section
+    blogHeader = "<span style=\"font-size: 36px; \">anti<b>Tree</b></span>"
+    tagline = " projects and info"
+    # the theme assumes this will be in your static/img directory
+    headerimg = "fuckno.png"
+    # used for the contact page (if you use it)
+    contactEmail = "antitree at gmail"
+    contactTwitter = "antitree"
+    contactWebsite = "https://www.bsidesroc.com"
+    contactReddit = "antitree"
+    contactGithub = "antitree"
+    contactPGP = "0B2C 9595 A8E0 3683 A81F E3EE 68B1 A274 584F 01E8"
+    contactPGPLink = "https://pgp.mit.edu/pks/lookup?op=get&search=0x68B1A274584F01E8"
+
+
+[menu]
+    # Menu for the nav bar.
+    # Ideal count is 3 items, see demo site for an example
+    [[menu.nav]]
+    identifier = "projects"
+    name       = "projects"
+    url        = "/projects"
+    weight     = 3
+
+    [[menu.nav]]
+    identifier = "talks"
+    name       = "talks"
+    url        = "/talks"
+    weight     = 5
+
+    [[menu.nav]]
+    identifier = "contact"
+    name       = "contact"
+    url        = "/contact"
+    weight     = 10
