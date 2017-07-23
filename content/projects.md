@@ -4,7 +4,11 @@ title = "Projects"
 +++
 
 ## BSidesROC:
-* 2017: Soon to be announced
+* 2018: [See you next year](https://www.bsidesroc.com)
+
+## Private Tor Network
+* 2017: Updated to use Docker Swarm
+* 2016: Created a private tor network image
 
 ## Libtech toolkits
 * 2017: Built entropy analyzer for obfs4
@@ -24,6 +28,7 @@ title = "Projects"
 * 2015: Run at BSidesROC
 
 ## Rochester 2600 intelligence gathering
+* 02-06-2017: That was a terrible idea. Roll back. 
 * 02-05-2017: Upgraded to wallabag
 * 2016: Building with instapaper API
 * 2015: Slack and skype bot integration
