@@ -18,7 +18,7 @@ enableRobotsTXT = "true"
     colorscheme = "dark"
     # text for the header section
     blogHeader = "<span style=\"font-size: 36px; \">anti<b>Tree</b></span>"
-    tagline = " projects and info"
+    tagline = " posts and projects"
     # the theme assumes this will be in your static/img directory
     headerimg = "fuckno.png"
     # used for the contact page (if you use it)
