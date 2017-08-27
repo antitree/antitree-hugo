@@ -140,8 +140,19 @@
 }
 .color-scheme-dark .sitename {
     text-decoration: none;
-    color: #282828;
+    font-family: "courier new", "courier", "monospace";
+    color: white;
     line-height: 4rem;
+    position: relative;
+}
+
+.color-scheme-dark .sitename::after{
+    content: '';
+    border-bottom: 8px solid white;
+    position: absolute;
+    right: 0;
+    top: -5%;
+    width: 50%;
 }
 
 .color-scheme-dark .container {
@@ -231,4 +242,3 @@ strong {
     font-size: 120%;
     color: white;
 }
-
