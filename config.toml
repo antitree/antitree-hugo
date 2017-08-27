@@ -22,10 +22,10 @@ enableRobotsTXT = "true"
     # the theme assumes this will be in your static/img directory
     headerimg = "fuckno.png"
     # used for the contact page (if you use it)
-    contactEmail = "antitree at gmail"
+    contactEmail = "antitree \\\\at\\\\ gmail"
     contactTwitter = "antitree"
-    contactWebsite = "https://www.bsidesroc.com"
-    contactReddit = "antitree"
+    contactWebsite1 = "https://www.bsidesroc.com"
+    contactWebsite2 = "https://www.rochester2600.com"
     contactGithub = "antitree"
     contactPGP = "0B2C 9595 A8E0 3683 A81F E3EE 68B1 A274 584F 01E8"
     contactPGPLink = "https://pgp.mit.edu/pks/lookup?op=get&search=0x68B1A274584F01E8"
