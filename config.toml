@@ -2,6 +2,7 @@ baseurl = "https://www.antitree.com/"
 languageCode = "en-us"
 title = "antitree.com"
 theme = "rocktopus"
+relativeurls = true
 GoogleAnalytics = "UA-25976857-1"
 paginate = 4
 MetaDataFormat = "toml"
