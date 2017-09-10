@@ -38,7 +38,7 @@ To create a simple web page screen scraper , it&#8217;s as easy as a few lines o
             service_args=self.proxysettings,
             desired_capabilities=dc
         )
-        browser.get("http://www.antitree.com")
+        browser.get("https://www.antitree.com")
 </pre>
 
 Playing around with this started bring up questions like: Since PhantomJS doesn&#8217;t in fact have a screen, what would my screen resolution be? [The answer is 1024&#215;768][7].
@@ -70,9 +70,9 @@ This will take a few extra screen resolutions every time a new webdriver browser
 
 Old:
 
-[<img class=" wp-image-830 size-full aligncenter" src="http://www.antitree.com/wp-content/uploads/2015/05/test4-e1431971190591.png" alt="" width="550" height="235" />][8]
+[<img class=" wp-image-830 size-full aligncenter" src="/wp-content/uploads/2015/05/test4-e1431971190591.png" alt="" width="550" height="235" />][8]
 
-New:[<img class=" wp-image-829 size-full aligncenter" src="http://www.antitree.com/wp-content/uploads/2015/05/test3-e1431971237215.png" alt="test3" width="520" height="241" />][9]
+New:[<img class=" wp-image-829 size-full aligncenter" src="/wp-content/uploads/2015/05/test3-e1431971237215.png" alt="test3" width="520" height="241" />][9]
 
 # And so on&#8230;
 
@@ -87,5 +87,5 @@ And we&#8217;ve now spoofed a single fingerprintable value only another few tho
  [5]: http://browserspy.dk/fonts-flash.php
  [6]: http://www.emirweb.com/ScreenDeviceStatistics.php
  [7]: https://github.com/ariya/phantomjs/blob/7317724723639932f79c211ac40f5ca06f4d9e1a/src/qt/qtbase/src/plugins/platforms/phantom/phantomintegration.cpp#L60
- [8]: http://www.antitree.com/wp-content/uploads/2015/05/test4-e1431971190591.png
- [9]: http://www.antitree.com/wp-content/uploads/2015/05/test3.png
+ [8]: /wp-content/uploads/2015/05/test4-e1431971190591.png
+ [9]: /wp-content/uploads/2015/05/test3.png

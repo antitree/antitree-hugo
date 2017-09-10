@@ -17,19 +17,19 @@ Here&#8217;s a reference from an old mailing list entry:
 
 # Pudding for the Proof:
 
-<span style="line-height: 13px;"><a href="http://www.antitree.com/wp-content/uploads/2013/02/exit3.png"><br /> </a>Don&#8217;t believe me? Let&#8217;s test it out. If I run an exit node and then try to use it for a circuit, my DNS requests should go through it right? I&#8217;ve spun up an exit node named &#8220;BrianCranston&#8221; and I&#8217;ll setup a client (who I&#8217;m calling Aaron Paul)  to only use this box as it&#8217;s exit node. You can do this by adding the following to your TORRC file:</span>
+<span style="line-height: 13px;"><a href="/wp-content/uploads/2013/02/exit3.png"><br /> </a>Don&#8217;t believe me? Let&#8217;s test it out. If I run an exit node and then try to use it for a circuit, my DNS requests should go through it right? I&#8217;ve spun up an exit node named &#8220;BrianCranston&#8221; and I&#8217;ll setup a client (who I&#8217;m calling Aaron Paul)  to only use this box as it&#8217;s exit node. You can do this by adding the following to your TORRC file:</span>
 
 <pre class="lang:default decode:true">ExitNodes briancranston</pre>
 
 And on my exit node, I do a tcpdump of all traffic on port 53. On my client I start looking for BrianCranston&#8217;s websites at briancranston.com and briancranston.org. Lets see what it looks like:
 
-[<img class="aligncenter size-full wp-image-518" alt="exit6" src="http://www.antitree.com/wp-content/uploads/2013/02/exit6.png" width="613" height="119" />][2]
+[<img class="aligncenter size-full wp-image-518" alt="exit6" src="/wp-content/uploads/2013/02/exit6.png" width="613" height="119" />][2]
 
 You&#8217;ll notice that Tor is being a little cheeky with the way it resolves DNS records.  briancranston.org turns into bRiancRAnsTON.org. <del>I don&#8217;t know if this is just a nice way to let Exit Node operators know which hosts are being resolved by Tor or what. </del> The reason for the odd casing in the DNS response is actually thanks to the Dan Kaminskys. Back in 2008, when exploiting DNS flaws was all the rage, one of the remediations for a DNS cache poisoning attack, was to randomize the casing of a DNS request. **This was called the &#8220;[0x20 hack][3]&#8221; because if you look at an ASCII table of letters, you&#8217;ll notice that the difference between the letter A and the letter a, is 0x20.** For example &#8220;a&#8221; is 0x61, and &#8220;A&#8221; is 0x41. The point here is that if someone wanted to attempt to pull off a cache poisoning attack, they&#8217;d have to brute force the possible case combinations. I&#8217;m told that modern browsers have this function built in now, but back in 2008, Tor was on the bleeding edge and its stayed in because it really doesn&#8217;t matter if a DNS query is 0x20&#8217;d multiple times. Thanks to [Isis][4] for pointing this out.
 
 # UDP:
 
-[<img class="alignright" alt="Billy Mays here. " src="http://www.antitree.com/wp-content/uploads/2013/02/exit3-234x300.png" width="234" height="300" />][5]Tor is a TCP only network so what happens when it you need to use UDP services like DNS? The answer is pretty simple, it just doesn&#8217;t do it. [Colin Mulliner][6] and came up with a solution to this which was to relay UDP based DNS requests using a tool he wrote called [TTDNS][7].(If you&#8217;ve ever used TAILS, this is what it uses.) In short, it takes a UDP based DNS query, converts it to TCP, sends it out over Tor, and converts the reply back to UDP once it&#8217;s been received.
+[<img class="alignright" alt="Billy Mays here. " src="/wp-content/uploads/2013/02/exit3-234x300.png" width="234" height="300" />][5]Tor is a TCP only network so what happens when it you need to use UDP services like DNS? The answer is pretty simple, it just doesn&#8217;t do it. [Colin Mulliner][6] and came up with a solution to this which was to relay UDP based DNS requests using a tool he wrote called [TTDNS][7].(If you&#8217;ve ever used TAILS, this is what it uses.) In short, it takes a UDP based DNS query, converts it to TCP, sends it out over Tor, and converts the reply back to UDP once it&#8217;s been received.
 
 Tor doesn&#8217;t natively support UDP based DNS queries, but Tor also only does two types of DNS queries: A records, and PTR records. It skips around needing to use CNAME by converting them to A records but officially, those are the only two supported.
 
@@ -65,7 +65,7 @@ So, following our Breaking Bad theme, if we had [Brian (Cranston)][8] and [Aaron
 
 EDIT: Modified to differential between &#8220;rendezvous&#8221; and &#8220;introduction points&#8221; in the steps. Thanks to [Isis][10] for pointing that out.
 
-So in short, hidden services are resolved using Hidden Server Directory Servers and the Tor client. There currently is no way (AFAIK) to manually just resolve onion addresses. That means, if you&#8217;re trying to connect to a hidden service using a script, you&#8217;ll have to properly tunnel the requests through Tor. That&#8217;ll be for another day. [<img class="aligncenter size-full wp-image-522" alt="torba" src="http://www.antitree.com/wp-content/uploads/2013/02/torba.png" width="650" height="406" />][11]
+So in short, hidden services are resolved using Hidden Server Directory Servers and the Tor client. There currently is no way (AFAIK) to manually just resolve onion addresses. That means, if you&#8217;re trying to connect to a hidden service using a script, you&#8217;ll have to properly tunnel the requests through Tor. That&#8217;ll be for another day. [<img class="aligncenter size-full wp-image-522" alt="torba" src="/wp-content/uploads/2013/02/torba.png" width="650" height="406" />][11]
 
 If you need more information, check out these links:
 
@@ -74,13 +74,13 @@ If you need more information, check out these links:
 <https://gitweb.torproject.org/torspec.git?a=blob_plain;hb=HEAD;f=rend-spec.txt> &#8211; discusses the rendezvous protocol specification that is the basis of hidden services.
 
  [1]: http://archives.seul.org/or/talk/Jul-2010/msg00007.html
- [2]: http://www.antitree.com/wp-content/uploads/2013/02/exit6.png
+ [2]: /wp-content/uploads/2013/02/exit6.png
  [3]: http://courses.isi.jhu.edu/netsec/papers/increased_dns_resistance.pdf
  [4]: https://blog.patternsinthevoid.net/
- [5]: http://www.antitree.com/wp-content/uploads/2013/02/exit3.png
+ [5]: /wp-content/uploads/2013/02/exit3.png
  [6]: http://www.mulliner.org/blog/blosxom.cgi/index.html?find=ttdnsd&plugin=find&path=
  [7]: https://gitweb.torproject.org/ioerror/ttdnsd.git
  [8]: http://www.imdb.com/name/nm0186505/
  [9]: http://www.imdb.com/name/nm0666739/?ref_=fn_al_nm_1
  [10]: https://twitter.com/isislovecruft
- [11]: http://www.antitree.com/wp-content/uploads/2013/02/torba.png
+ [11]: /wp-content/uploads/2013/02/torba.png

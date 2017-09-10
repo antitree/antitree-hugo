@@ -18,7 +18,7 @@ For the CIA, intel operations are part of operational security. The intel may te
 
 This is what the cycle look like in the most generic form. There&#8217;s a lot of explanation that has to go into each phase but I think you can interpret each however you&#8217;d like.
 
-[<img class="aligncenter size-medium wp-image-473" alt="intel_cycle" src="http://www.antitree.com/wp-content/uploads/2013/01/intel_cycle-296x300.png" width="296" height="300" />][1]
+[<img class="aligncenter size-medium wp-image-473" alt="intel_cycle" src="/wp-content/uploads/2013/01/intel_cycle-296x300.png" width="296" height="300" />][1]
 
 This cycle has many [different versions][2]. It seems like different governments interpret it in different ways but they all basically stem from this image above. People have also been applying the intelligence lifecycle to APT (yes.. I said it&#8230;) because it directly applies to targeted network attacks. Here&#8217;s a good one from a hacker organization called &#8220;Dell&#8221;:
 
@@ -41,7 +41,7 @@ While I&#8217;m not talking out-of-my-ass on the subject, I admit I have a lot t
 
 &nbsp;
 
- [1]: http://www.antitree.com/wp-content/uploads/2013/01/intel_cycle.png
+ [1]: /wp-content/uploads/2013/01/intel_cycle.png
  [2]: https://www.google.com/search?q=intelligence+cycle&hl=en&tbo=d&source=lnms&tbm=isch&sa=X&ei=ersCUYkEyODRAcPUgegM&ved=0CAoQ_AUoAA&biw=1920&bih=936
  [3]: http://en.community.dell.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-46-04/7711.Advanced_5F00_Persistent_5F00_Threat_5F002D005F00_APT_5F002D005F00_Lifecycle.png
  [4]: http://www.rochester2600.com

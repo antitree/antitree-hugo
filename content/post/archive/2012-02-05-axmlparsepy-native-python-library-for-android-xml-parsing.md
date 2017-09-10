@@ -33,4 +33,4 @@ if __name__ == "__main__":
   main()
 </pre>
 
- [1]: http://www.antitree.com/projects/manitree/ "Manitree"
+ [1]: /projects/manitree/ "Manitree"

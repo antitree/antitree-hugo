@@ -32,7 +32,7 @@ I&#8217;ve also secured SSH (which many of the Raspberry Pi images don&#8217;t d
 
 The part I spent the most time on, and is hopefully the most useful, is I took the structure of the raspi-config tool that is shipped with Raspbian, and I convirted it into a Tor configuration tool. This will give you a text-based wizard to guide users through configuring Tor, keeping obfsproxy up-to-date and perform basic systems administration on the device.
 
-[<img class="alignnone size-full wp-image-793" src="http://www.antitree.com/wp-content/uploads/2014/07/screen11.png" alt="screen1[1]" width="641" height="411" />][5]
+[<img class="alignnone size-full wp-image-793" src="/wp-content/uploads/2014/07/screen11.png" alt="screen1[1]" width="641" height="411" />][5]
 
 ## Roadmap
 
@@ -51,4 +51,4 @@ It&#8217;s fully functional but there are a lot of things I&#8217;d like to impr
  [2]: https://www.torproject.org/docs/bridges
  [3]: https://github.com/antitree/tor-deb-raspberry-pi
  [4]: https://github.com/antitree/tor-raspberry-pi-build-scripts/blob/master/DESIGN.md
- [5]: http://www.antitree.com/wp-content/uploads/2014/07/screen11.png
+ [5]: /wp-content/uploads/2014/07/screen11.png

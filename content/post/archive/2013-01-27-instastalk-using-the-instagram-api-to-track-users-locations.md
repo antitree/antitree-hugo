@@ -25,8 +25,8 @@ Here&#8217;s me keeping track of Berticus:[
   
 ][1] 
 
-[<img class="aligncenter size-full wp-image-483" alt="instastalkberticus" src="http://www.antitree.com/wp-content/uploads/2013/01/instastalkberticus.png" width="554" height="126" />][1]
+[<img class="aligncenter size-full wp-image-483" alt="instastalkberticus" src="/wp-content/uploads/2013/01/instastalkberticus.png" width="554" height="126" />][1]
 
 &nbsp;
 
- [1]: http://www.antitree.com/wp-content/uploads/2013/01/instastalkberticus.png
+ [1]: /wp-content/uploads/2013/01/instastalkberticus.png

@@ -31,7 +31,7 @@ Last year, although I was messing around with my hardware hacking project (that 
 
 ## iButton Door System
 
-[<img class="size-medium wp-image-715 alignright" alt="DSCF5127" src="http://www.antitree.com/wp-content/uploads/2013/12/DSCF5127-e1388513584921-154x300.jpg" width="154" height="300" />][1][<img class="size-medium wp-image-716 alignright" alt="DSCF5125" src="http://www.antitree.com/wp-content/uploads/2013/12/DSCF5125-e1388513621466-112x300.jpg" width="112" height="300" />][2]
+[<img class="size-medium wp-image-715 alignright" alt="DSCF5127" src="/wp-content/uploads/2013/12/DSCF5127-e1388513584921-154x300.jpg" width="154" height="300" />][1][<img class="size-medium wp-image-716 alignright" alt="DSCF5125" src="/wp-content/uploads/2013/12/DSCF5125-e1388513621466-112x300.jpg" width="112" height="300" />][2]
 
 This was a failure. Some of us still talk about it but I didn&#8217;t build an iButton door system. I have all t he hardware and Raspberry Pis to do it, I just haven&#8217;t put the time in.
 
@@ -78,5 +78,5 @@ This year hasn&#8217;t taken me into much hardware reverse engineering lately. I
 
 <p style="text-align: right;">
 
- [1]: http://www.antitree.com/wp-content/uploads/2013/12/DSCF5127-e1388513584921.jpg
- [2]: http://www.antitree.com/wp-content/uploads/2013/12/DSCF5125-e1388513621466.jpg
+ [1]: /wp-content/uploads/2013/12/DSCF5127-e1388513584921.jpg
+ [2]: /wp-content/uploads/2013/12/DSCF5125-e1388513621466.jpg

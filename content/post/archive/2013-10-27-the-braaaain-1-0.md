@@ -13,7 +13,7 @@ Halloween time again. Last year I tried to do a simple little hardware project t
 
 This year, I decided to work on this idea I&#8217;ve had for more than a year and a half. **The Brain &#8211; a silicone based brain with controllable LEDs inside. **I have some ideas of what to do next with it, but this first iteration is just to be a fun decoration for Halloween.
 
-[<img class="aligncenter size-full wp-image-683" alt="Brain Mold" src="http://www.antitree.com/wp-content/uploads/2013/10/2013-10-27.jpg" width="486" height="648" />][1][<img class="aligncenter size-full wp-image-686" alt="Glow Brain" src="http://www.antitree.com/wp-content/uploads/2013/10/2013-10-27-1.jpg" width="486" height="648" />][2]
+[<img class="aligncenter size-full wp-image-683" alt="Brain Mold" src="/wp-content/uploads/2013/10/2013-10-27.jpg" width="486" height="648" />][1][<img class="aligncenter size-full wp-image-686" alt="Glow Brain" src="/wp-content/uploads/2013/10/2013-10-27-1.jpg" width="486" height="648" />][2]
 
 &nbsp;
 
@@ -45,14 +45,14 @@ The whole things hardens within 30 minutes but because mine was in the garage in
 
 Because this stuff isn&#8217;t very cheap, I did a demo mold just to make sure I was on the right track.
 
-[<img class="aligncenter size-thumbnail wp-image-679" alt="" src="http://www.antitree.com/wp-content/uploads/2013/10/IMG_20131024_1607041-150x150.jpg" width="150" height="150" />][5]
+[<img class="aligncenter size-thumbnail wp-image-679" alt="" src="/wp-content/uploads/2013/10/IMG_20131024_1607041-150x150.jpg" width="150" height="150" />][5]
 
 # PlatSil Gel-10:
 
 My goal was to create a mold of a brain that was rubbery and brain like. This Platsil line of chemicals are designed to create molds for other things. There wasn&#8217;t a lot of people making actual things from the material itself but I really like the texture and toughness of using it as the model. I will say that it is 100% overkill for what I wanted. There&#8217;s probably someone that can recommend a better, cheaper**,** alternative but for me this worked in the time frame I needed it to. They have a bunch of different types and I really wanted light to diffuse through it so I got that translucent version. It still comes out pretty white depending on how thick of a mold you&#8217;re making.
 
 <p style="text-align: center;">
-  <a href="http://www.antitree.com/wp-content/uploads/2013/10/IMG_20131025_1707301.jpg"><img class="aligncenter  wp-image-680" alt="PlatSil Gel-10 A" src="http://www.antitree.com/wp-content/uploads/2013/10/IMG_20131025_1707301.jpg" width="360" height="480" /></a>
+  <a href="/wp-content/uploads/2013/10/IMG_20131025_1707301.jpg"><img class="aligncenter  wp-image-680" alt="PlatSil Gel-10 A" src="/wp-content/uploads/2013/10/IMG_20131025_1707301.jpg" width="360" height="480" /></a>
 </p>
 
 # Neo Pixel:
@@ -65,7 +65,7 @@ Power takes +5v, and there is a warning about memory consumption especially with
 
 Adafruit has a [Neo Pixel library][6] that you can use pretty easily, even if you just want to hack one of their demos.
 
-[<img class="aligncenter size-full wp-image-677" alt="Adafruit Neo Pixel" src="http://www.antitree.com/wp-content/uploads/2013/10/1060quattro_MED1.jpg" width="400" height="308" />][7]
+[<img class="aligncenter size-full wp-image-677" alt="Adafruit Neo Pixel" src="/wp-content/uploads/2013/10/1060quattro_MED1.jpg" width="400" height="308" />][7]
 
 # Arduino:
 
@@ -149,10 +149,10 @@ uint32_t Wheel(byte WheelPos) {
 
 <https://gist.github.com/antitree/7188144>
 
- [1]: http://www.antitree.com/wp-content/uploads/2013/10/2013-10-27.jpg
- [2]: http://www.antitree.com/wp-content/uploads/2013/10/2013-10-27-1.jpg
+ [1]: /wp-content/uploads/2013/10/2013-10-27.jpg
+ [2]: /wp-content/uploads/2013/10/2013-10-27-1.jpg
  [3]: http://www.shop.brickintheyard.com/PlatSil-Gel-10-Pint-Kit-2-Lbs-Gel10U2.htm
  [4]: http://www.shop.brickintheyard.com/Pol-Ease-2300-12-Oz-Spray-Can-2300.htm
- [5]: http://www.antitree.com/wp-content/uploads/2013/10/IMG_20131024_1607041.jpg
+ [5]: /wp-content/uploads/2013/10/IMG_20131024_1607041.jpg
  [6]: https://github.com/adafruit/Adafruit_NeoPixel
- [7]: http://www.antitree.com/wp-content/uploads/2013/10/1060quattro_MED1.jpg
+ [7]: /wp-content/uploads/2013/10/1060quattro_MED1.jpg

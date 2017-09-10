@@ -27,4 +27,4 @@ UPDATE: changed link to project details.
 
 &nbsp;
 
- [1]: http://www.antitree.com/projects/jukebox-jacking/ "Jukebox Jacking"
+ [1]: /projects/jukebox-jacking/ "Jukebox Jacking"

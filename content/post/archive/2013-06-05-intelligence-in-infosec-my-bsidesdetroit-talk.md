@@ -8,7 +8,7 @@ categories:
   - Uncategorized
 
 ---
-[<img class="aligncenter size-full wp-image-636" alt="dragon-tattoo" src="http://www.antitree.com/wp-content/uploads/2013/06/dragon-tattoo.jpg" width="800" height="450" />][1]
+[<img class="aligncenter size-full wp-image-636" alt="dragon-tattoo" src="/wp-content/uploads/2013/06/dragon-tattoo.jpg" width="800" height="450" />][1]
 
 This Friday, I&#8217;ll be presenting a weird presentation at [BSides Detroit][2]. It&#8217;s titled &#8220;[Corporate Intelligence: Lisbeth Salandar vs James Bond][3]&#8221; and it&#8217;s on a subject that has been stuck in my head for a while. It&#8217;s a talk about corporate spying, competitive intelligence, industrial espionage &#8212; the type of thing where people are stealing information from one group, and selling it to another. As is the case with most of my presentations, it has little to do with what I do for work, and more to do with play.
 
@@ -42,10 +42,10 @@ The presentation is something I started while in Mexico reading [The Grey Line][
   </div>
 </div>
 
- [1]: http://www.antitree.com/wp-content/uploads/2013/06/dragon-tattoo.jpg
+ [1]: /wp-content/uploads/2013/06/dragon-tattoo.jpg
  [2]: http://www.securitybsides.com/w/page/61144863/BSidesDetroit13
  [3]: http://www.securitybsides.com/w/page/62849966/BSidesDetroit13Sessions#t37
- [4]: http://www.antitree.com/using-the-cias-intelligence-model-for-your-security-objectives/ "Using The CIA’s Intelligence Model For Your Security Objectives"
+ [4]: /using-the-cias-intelligence-model-for-your-security-objectives/ "Using The CIA’s Intelligence Model For Your Security Objectives"
  [5]: http://www.amazon.com/Grey-Line-Corporate-Espionage-Counterintelligence/dp/1466338709/ref=sr_1_2?s=books&ie=UTF8&qid=1370459284&sr=1-2&keywords=modern+espionage
  [6]: http://www.amazon.com/Grey-Line-Corporate-Espionage-Counterintelligence/dp/1466338709/
  [7]: http://www.amazon.com/Corporate-Espionage-Happening-Company-About/dp/0761518096/

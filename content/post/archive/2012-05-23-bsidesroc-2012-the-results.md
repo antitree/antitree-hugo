@@ -18,19 +18,19 @@ Here are a summary of some of, what I regard as, more interesting survey respons
 ## Chartz!1!
 
 <p style="text-align: center;">
-  <a href="http://www.antitree.com/wp-content/uploads/2012/05/ChartExport.png"><img class="aligncenter  wp-image-246" title="ChartExport" src="http://www.antitree.com/wp-content/uploads/2012/05/ChartExport.png" alt="" width="640" height="480" srcset="/wp-content/uploads/2012/05/ChartExport.png 800w, /wp-content/uploads/2012/05/ChartExport-300x225.png 300w, /wp-content/uploads/2012/05/ChartExport-768x576.png 768w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2012/05/ChartExport.png"><img class="aligncenter  wp-image-246" title="ChartExport" src="/wp-content/uploads/2012/05/ChartExport.png" alt="" width="640" height="480" srcset="/wp-content/uploads/2012/05/ChartExport.png 800w, /wp-content/uploads/2012/05/ChartExport-300x225.png 300w, /wp-content/uploads/2012/05/ChartExport-768x576.png 768w" sizes="(max-width: 640px) 100vw, 640px" /></a>
 </p>
 
 ##  Closeness to death:
 
 <p style="text-align: center;">
-  <a href="http://www.antitree.com/wp-content/uploads/2012/05/ChartExport-2.png"><img class="aligncenter  wp-image-245" title="ChartExport (2)" src="http://www.antitree.com/wp-content/uploads/2012/05/ChartExport-2.png" alt="" width="640" height="480" srcset="/wp-content/uploads/2012/05/ChartExport-2.png 800w, /wp-content/uploads/2012/05/ChartExport-2-300x225.png 300w, /wp-content/uploads/2012/05/ChartExport-2-768x576.png 768w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2012/05/ChartExport-2.png"><img class="aligncenter  wp-image-245" title="ChartExport (2)" src="/wp-content/uploads/2012/05/ChartExport-2.png" alt="" width="640" height="480" srcset="/wp-content/uploads/2012/05/ChartExport-2.png 800w, /wp-content/uploads/2012/05/ChartExport-2-300x225.png 300w, /wp-content/uploads/2012/05/ChartExport-2-768x576.png 768w" sizes="(max-width: 640px) 100vw, 640px" /></a>
 </p>
 
 ## Why are you here?
 
 <p style="text-align: center;">
-  <a href="http://www.antitree.com/wp-content/uploads/2012/05/ChartExport-1.png"><img class="aligncenter  wp-image-244" title="ChartExport (1)" src="http://www.antitree.com/wp-content/uploads/2012/05/ChartExport-1.png" alt="" width="640" height="480" srcset="/wp-content/uploads/2012/05/ChartExport-1.png 800w, /wp-content/uploads/2012/05/ChartExport-1-300x225.png 300w, /wp-content/uploads/2012/05/ChartExport-1-768x576.png 768w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2012/05/ChartExport-1.png"><img class="aligncenter  wp-image-244" title="ChartExport (1)" src="/wp-content/uploads/2012/05/ChartExport-1.png" alt="" width="640" height="480" srcset="/wp-content/uploads/2012/05/ChartExport-1.png 800w, /wp-content/uploads/2012/05/ChartExport-1-300x225.png 300w, /wp-content/uploads/2012/05/ChartExport-1-768x576.png 768w" sizes="(max-width: 640px) 100vw, 640px" /></a>
 </p>
 
 ## Badges:

@@ -30,17 +30,17 @@ Used in partnership with the [ndefeditor.com][8] site, the app lets you genera
 
 Create a new tag in Eclipse by going to New>Other>NDEF File
 
-[<img class="aligncenter" alt="blog1" src="http://www.antitree.com/wp-content/uploads/2013/04/blog1.png" width="314" height="299" />][9]
+[<img class="aligncenter" alt="blog1" src="/wp-content/uploads/2013/04/blog1.png" width="314" height="299" />][9]
 
 Fill the file with whatever contents you want or whatever the application can handle. This may be a specific MIME type like below or a Android Application Resource (AAR)&#8230; or many other things for that matter.
   
-[<img class="aligncenter" alt="blog5" src="http://www.antitree.com/wp-content/uploads/2013/04/blog5.png" width="438" height="281" />][10]
+[<img class="aligncenter" alt="blog5" src="/wp-content/uploads/2013/04/blog5.png" width="438" height="281" />][10]
 
 &nbsp;
 
 Once you&#8217;re done, it&#8217;ll create a QR code for you that you can scan with the NFC Developer application installed on your device.
   
-[<img class="aligncenter" alt="blog3" src="http://www.antitree.com/wp-content/uploads/2013/04/blog3-576x1024.png" width="346" height="614" />][11]
+[<img class="aligncenter" alt="blog3" src="/wp-content/uploads/2013/04/blog3-576x1024.png" width="346" height="614" />][11]
 
 You&#8217;ll now be able to load your custom NDEF message onto an NFC tag of your choice.
 
@@ -73,7 +73,7 @@ Lets imagine that this app stores a textfile of SSH hosts to connect to. In this
 Happy hacking.
 
 <p style="text-align: center;">
-   <a href="http://www.antitree.com/wp-content/uploads/2013/04/blog3.png"><br /> </a> <a href="http://www.antitree.com/wp-content/uploads/2013/04/blog1.png"><br /> </a>
+   <a href="/wp-content/uploads/2013/04/blog3.png"><br /> </a> <a href="/wp-content/uploads/2013/04/blog1.png"><br /> </a>
 </p>
 
  [1]: http://www.engadget.com/2011/08/18/nokia-gifts-museum-of-london-with-nfc-tags-makes-you-tap-for-mo/ "from"
@@ -84,8 +84,8 @@ Happy hacking.
  [6]: http://via.me/-2gtpp82
  [7]: https://play.google.com/store/apps/details?id=com.nxp.nfc.tagwriter&hl=en
  [8]: http://ndefeditor.com/
- [9]: http://www.antitree.com/wp-content/uploads/2013/04/blog1.png
- [10]: http://www.antitree.com/wp-content/uploads/2013/04/blog5.png
- [11]: http://www.antitree.com/wp-content/uploads/2013/04/blog3.png
+ [9]: /wp-content/uploads/2013/04/blog1.png
+ [10]: /wp-content/uploads/2013/04/blog5.png
+ [11]: /wp-content/uploads/2013/04/blog3.png
  [12]: https://play.google.com/store/apps/details?id=com.antares.nfc&hl=en
  [13]: http://rapidnfc.com/cat/15/nfc_starter_packs

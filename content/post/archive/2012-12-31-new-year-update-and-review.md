@@ -66,5 +66,5 @@ This just needs to happen. This is kind of like all of my friends are jumping of
 
 &nbsp;
 
- [1]: http://www.antitree.com/hello-world/ "New Year Update"
- [2]: http://www.antitree.com/projects/jukebox-jacking/ "Jukebox Jacking"
+ [1]: /hello-world/ "New Year Update"
+ [2]: /projects/jukebox-jacking/ "Jukebox Jacking"

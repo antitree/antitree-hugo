@@ -18,7 +18,7 @@ Cables (or Cable I really don&#8217;t know) is designed by a person that goes by
   
 ][3] 
 
-[<img class="aligncenter size-full wp-image-702" alt="liberte-logo-600px[1]" src="http://www.antitree.com/wp-content/uploads/2013/11/liberte-logo-600px1.png" width="600" height="600" />][4]
+[<img class="aligncenter size-full wp-image-702" alt="liberte-logo-600px[1]" src="/wp-content/uploads/2013/11/liberte-logo-600px1.png" width="600" height="600" />][4]
 
 # Overview:
 
@@ -49,7 +49,7 @@ Although email is the most common example, Cables is not stuck in one way in whi
 
 This HTTP service is facilitated by the appropriately named &#8220;daemon&#8221; process which is the service shared via your .onion address. This service runs on local port 9080, and is served up on port 80 of the hidden service. So if you visit your hidden service address on that port, you receive a 200 ok response. But if you give it a URL like the one below, you can actually access files on the file system. There is a 1 to 1 translation between the files saved in the path /
 
-[<img class="aligncenter size-medium wp-image-700" alt="certs" src="http://www.antitree.com/wp-content/uploads/2013/11/certs-300x84.png" width="300" height="84" />][6]
+[<img class="aligncenter size-medium wp-image-700" alt="certs" src="/wp-content/uploads/2013/11/certs-300x84.png" width="300" height="84" />][6]
 
 &nbsp;
 
@@ -83,6 +83,6 @@ I think so far that CMS is a good way to go, but using GET PUSH style HTTP for t
  [1]: http://dee.su/liberte
  [2]: mailto:mk-at-dee.su
  [3]: mailto:tor-talk%40lists.torproject.org?Subject=Re%3A%20%5Btor-talk%5D%20Location-aware%20persistent%20guards&In-Reply-To=%3CCAHsXYDArwBKpdY-zuCrWsGB%3Dq6rDrSbMUvZ%2BymeTTas87st37g%40mail.gmail.com%3E "[tor-talk] Location-aware persistent guards"
- [4]: http://www.antitree.com/wp-content/uploads/2013/11/liberte-logo-600px1.png
+ [4]: /wp-content/uploads/2013/11/liberte-logo-600px1.png
  [5]: http://tools.ietf.org/html/rfc5652#ref-PROFILE
- [6]: http://www.antitree.com/wp-content/uploads/2013/11/certs.png
+ [6]: /wp-content/uploads/2013/11/certs.png

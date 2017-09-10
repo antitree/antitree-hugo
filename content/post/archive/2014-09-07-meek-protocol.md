@@ -49,7 +49,7 @@ The Meek Protocol was designed by some of the people involved with the Tor Proje
 
 Here&#8217;s a diagram of it all wrapped together:
 
-[<img class="alignnone wp-image-798" src="http://www.antitree.com/wp-content/uploads/2014/09/meek-1024x423.png" alt="meek" width="800" height="331" />][4]
+[<img class="alignnone wp-image-798" src="/wp-content/uploads/2014/09/meek-1024x423.png" alt="meek" width="800" height="331" />][4]
 
 &nbsp;
 
@@ -65,7 +65,7 @@ You might notice that there are a few extra hops in your circuit and it&#8217;s 
 
 As of now, there does not seem to be a lot (compared to all Tor users) of users connecting over the Meek bridge but it does seem to be increasing in popularity.
 
-[<img class="alignnone size-full wp-image-803" src="http://www.antitree.com/wp-content/uploads/2014/09/userstats-bridge-transport1.png" alt="userstats-bridge-transport[1]" width="576" height="360" />][6]
+[<img class="alignnone size-full wp-image-803" src="/wp-content/uploads/2014/09/userstats-bridge-transport1.png" alt="userstats-bridge-transport[1]" width="576" height="360" />][6]
 
 <p style="text-align: center;">
   <a href="https://metrics.torproject.org/userstats-bridge-transport.png?transport=meek">Updated Graph</a>
@@ -84,7 +84,7 @@ While no known attacks exist (besides an adversary blocking the entire CDN), the
  [1]: https://trac.torproject.org/projects/tor/wiki/doc/meek
  [2]: https://en.wikipedia.org/wiki/Server_Name_Indication
  [3]: https://www.torproject.org/docs/pluggable-transports
- [4]: http://www.antitree.com/wp-content/uploads/2014/09/meek.png
+ [4]: /wp-content/uploads/2014/09/meek.png
  [5]: http://freehaven.net/anonbib/#foci12-winter
- [6]: http://www.antitree.com/wp-content/uploads/2014/09/userstats-bridge-transport1.png
+ [6]: /wp-content/uploads/2014/09/userstats-bridge-transport1.png
  [7]: https://trac.torproject.org/projects/tor/wiki/doc/meek#Barrierstoindistinguishability

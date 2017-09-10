@@ -11,7 +11,7 @@ categories:
 ---
 BSidesROC is this Saturday at 8am. Holy crap. I wanted to give a final post before the con so you can figure out what to expect the day of the event. If you haven&#8217;t signed up, you should get a ticket right now. Do so on the website. <http://www.bsidesroc.com>
 
-# [<img class="aligncenter" title="HACKALLTHETHINGS" src="http://www.antitree.com/wp-content/uploads/2012/05/HACKALLTHETHINGS.jpg" alt="" width="320" height="240" />][1]
+# [<img class="aligncenter" title="HACKALLTHETHINGS" src="/wp-content/uploads/2012/05/HACKALLTHETHINGS.jpg" alt="" width="320" height="240" />][1]
 
 # Capture All The Flags
 
@@ -77,7 +77,7 @@ Do I need to remind you that this is a **free con that feeds your mouth for free
   <a href="http://www.rochester2600.com/" target="_blank"><img class="aligncenter" src="http://bsidesroc.com/i/s/roc2600.jpg" alt="the mongolians" width="150" height="128" /></a>     <a href="http://dc585.info/" target="_blank"><img class="aligncenter" src="http://bsidesroc.com/i/s/dc585_sm.png" alt="there is no dc585" width="150" height="128" /></a>
 </p>
 
- [1]: http://www.antitree.com/wp-content/uploads/2012/05/HACKALLTHETHINGS.jpg
+ [1]: /wp-content/uploads/2012/05/HACKALLTHETHINGS.jpg
  [2]: http://www.sparsa.org
  [3]: http://bsidesroc.com/talks.php
  [4]: http://www.interlockroc.org
