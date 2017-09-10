@@ -1,6 +1,6 @@
 baseurl = ""
 languageCode = "en-us"
-title = "antitree.com"
+title = "antiTree"
 theme = "rocktopus"
 relativeurls = true
 GoogleAnalytics = "UA-25976857-1"
