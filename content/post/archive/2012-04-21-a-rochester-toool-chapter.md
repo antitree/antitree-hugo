@@ -11,7 +11,7 @@ categories:
 ---
 **The first official meeting of the Rochester TOOOL chapter happened this last Thursday**. Jason Ross, the organizer of the group, you may have met at 2600 meetings, BSidesROC, seen present at BlackHat, or whatever infosec you&#8217;ve been to in the area. He&#8217;s been working with [TOOOL.us][1] to get a chapter started locally which makes Rochester a part of a small group of TOOOL chapters in the US.
 
-[<img class="aligncenter size-full wp-image-213" title="usa_map" src="http://www.antitree.com/wp-content/uploads/2012/04/usa_map.png" alt="" width="600" height="300" srcset="https://www.antitree.com/wp-content/uploads/2012/04/usa_map.png 600w, https://www.antitree.com/wp-content/uploads/2012/04/usa_map-300x150.png 300w" sizes="(max-width: 600px) 100vw, 600px" />][2]
+[<img class="aligncenter size-full wp-image-213" title="usa_map" src="http://www.antitree.com/wp-content/uploads/2012/04/usa_map.png" alt="" width="600" height="300" srcset="/wp-content/uploads/2012/04/usa_map.png 600w, /wp-content/uploads/2012/04/usa_map-300x150.png 300w" sizes="(max-width: 600px) 100vw, 600px" />][2]
 
 The Open Organization Of Lockpickers is organized in the U.S. By [Deviant Olam][3] and [Babak Javadi][4] but the group started in the Netherlands. If you&#8217;ve ever been to a hacker con, you&#8217;ve probably seen a lockpick village and it was probably done by one of the guys from TOOOL if not Deviant or Babak themselves. T**he group has the main goal of spreading public knowledge about lockpicking, loch mechanism, and physical security in general**.
 
