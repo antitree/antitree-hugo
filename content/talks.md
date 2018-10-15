@@ -1,7 +1,13 @@
 +++
-date = "2017-02-02"
+date = "2018-10-12"
 title = "Talks"
 +++
+
+## 2018
+* Pentesting DevOps: Containers and Orchestration
+* Best Practices for Securing Secure Shells
+* Latest Advances in DNS Privacy
+* Pip-PyPi-Python Security
 
 ## 2017
 * K8s: Pods to root in minutes
