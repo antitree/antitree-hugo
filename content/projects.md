@@ -1,12 +1,19 @@
 +++
-date = "2017-02-02"
+date = "2018-10-12"
 title = "Projects"
 +++
+
+## Syscall2seccomp
+* 2018: Tool to help build custom seccomp-bpf profiles for Docker containers
+
+## Interlock Timecapsule
+* 2018: Initial testing of Shamir Secret Sharing timecapsule
 
 ## BSidesROC:
 * 2018: [See you next year](https://www.bsidesroc.com)
 
 ## Private Tor Network
+* 2018: Support tagged versions and Kubernetes
 * 2017: Updated to use Docker Swarm
 * 2016: Created a private tor network image
 
@@ -28,6 +35,7 @@ title = "Projects"
 * 2015: Run at BSidesROC
 
 ## Rochester 2600 intelligence gathering
+* 2018: Google NLP API support
 * 02-06-2017: That was a terrible idea. Roll back. 
 * 02-05-2017: Upgraded to wallabag
 * 2016: Building with instapaper API
@@ -63,4 +71,4 @@ title = "Projects"
 
 ## Lizbeth Cyborg
 * 10/1/2013: Blew her up at Dias De Los Datos Muertes
-* 5/2011: Lizbeth is my mannequin hardware hacking project.
+* 5/2011: Lizbeth is my mannequin hardware hacking project used by Interlock ROchester.
