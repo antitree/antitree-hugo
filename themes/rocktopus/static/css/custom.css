@@ -22,7 +22,7 @@
 }
 
 .color-scheme-light a {
-    color: #e77817;
+    color: #0BA7D1;
     text-decoration: none;
 }
 
@@ -46,7 +46,7 @@
 
 }
 .color-scheme-light .post-title-link:hover {
-    color: #e77817;
+    color: #0BA7D1;
 }
 .color-scheme-light .post-postedby {
     color: #888888;
@@ -54,17 +54,17 @@
     font-style: italic;
 }
 .color-scheme-light .tag-link {
-    color: #e77817;
+    color: #0BA7D1;
 }
 .color-scheme-light .arrow-link, .copyright-link {
-    color: #e77817;
+    color: #0BA7D1;
 }
 .color-scheme-light .cat-list-link {
     color: #333;
     text-decoration: none;
 }
 .color-scheme-light .cat-list-link:hover {
-    color: #e77817;
+    color: #0BA7D1;
 }
 .color-scheme-light .navbar,
 .navbar-spacer {
@@ -100,7 +100,7 @@
     color: #33C3F0; 
 }
 .color-scheme-light .navbar-link:hover, .color-scheme-light .navbar-rlink:hover {
-    color: #e77817;
+    color: #0BA7D1;
 }
 
 
@@ -109,6 +109,10 @@
     color: #fff; 
     /*background-color:#000;*/
     background: url(/img/bg.png);
+    ;//background-repeat: no-repeat;
+    ;background-attachment: fixed;
+    //background-position: center; 
+
 
 }
 
@@ -168,7 +172,7 @@
     line-height: 3.5rem;
 }
 .color-scheme-dark .post-title-link:hover {
-    color: #C40010;
+    color: #0BA7D1;
 }
 .color-scheme-dark .post-postedby {
     color: #fff;
@@ -179,14 +183,14 @@
     color: #77B300;
 }
 .color-scheme-dark .arrow-link, .copyright-link {
-    color: #C40010;
+    color: #0BA7D1;
 }
 .color-scheme-dark .cat-list-link {
     color: #fff;
     text-decoration: none;
 }
 .color-scheme-dark .cat-list-link:hover {
-    color: #C40010;
+    color: #0BA7D1;
 }
 .color-scheme-dark .navbar,
 .navbar-spacer {
@@ -205,7 +209,7 @@
     padding-right: 16px;
     text-decoration: none;
     line-height: 4rem;
-    color: #C40010;
+    color: #0BA7D1;
 }
 /* attempt at making the menu go vertical on mobile
 @media screen and (max-width: 750px) {
@@ -228,7 +232,7 @@
     padding-right: 0px;
     margin-right: 0px;
     line-height: 4rem;
-    color: #C40010;
+    color: #0BA7D1;
 }
 .color-scheme-dark .navbar-link.active, .color-scheme-dark .navbar-rlink.active {
     color: #fff;
