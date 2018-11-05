@@ -22,7 +22,7 @@
 }
 
 .color-scheme-light a {
-    color: #0BA7D1;
+    color: #71eded;
     text-decoration: none;
 }
 
@@ -46,7 +46,7 @@
 
 }
 .color-scheme-light .post-title-link:hover {
-    color: #0BA7D1;
+    color: #71eded;
 }
 .color-scheme-light .post-postedby {
     color: #888888;
@@ -54,17 +54,17 @@
     font-style: italic;
 }
 .color-scheme-light .tag-link {
-    color: #0BA7D1;
+    color: #71eded;
 }
 .color-scheme-light .arrow-link, .copyright-link {
-    color: #0BA7D1;
+    color: #71eded;
 }
 .color-scheme-light .cat-list-link {
     color: #333;
     text-decoration: none;
 }
 .color-scheme-light .cat-list-link:hover {
-    color: #0BA7D1;
+    color: #71eded;
 }
 .color-scheme-light .navbar,
 .navbar-spacer {
@@ -100,14 +100,14 @@
     color: #33C3F0; 
 }
 .color-scheme-light .navbar-link:hover, .color-scheme-light .navbar-rlink:hover {
-    color: #0BA7D1;
+    color: #71eded;
 }
 
 
 /* dark */
 .color-scheme-dark {
     color: #fff; 
-    /*background-color:#000;*/
+    //background-color:#000;
     background: url(/img/bg.png);
     ;//background-repeat: no-repeat;
     ;background-attachment: fixed;
@@ -140,7 +140,7 @@
 }
 
 .color-scheme-dark a:hover {
-    color: #fff;
+    color: #eb3534;
 }
 .color-scheme-dark .sitename {
     text-decoration: none;
@@ -172,7 +172,7 @@
     line-height: 3.5rem;
 }
 .color-scheme-dark .post-title-link:hover {
-    color: #0BA7D1;
+    color: #eb3534;
 }
 .color-scheme-dark .post-postedby {
     color: #fff;
@@ -183,14 +183,14 @@
     color: #77B300;
 }
 .color-scheme-dark .arrow-link, .copyright-link {
-    color: #0BA7D1;
+    color: #71eded;
 }
 .color-scheme-dark .cat-list-link {
     color: #fff;
     text-decoration: none;
 }
 .color-scheme-dark .cat-list-link:hover {
-    color: #0BA7D1;
+    color: #71eded;
 }
 .color-scheme-dark .navbar,
 .navbar-spacer {
@@ -209,7 +209,7 @@
     padding-right: 16px;
     text-decoration: none;
     line-height: 4rem;
-    color: #0BA7D1;
+    color: #71eded;
 }
 /* attempt at making the menu go vertical on mobile
 @media screen and (max-width: 750px) {
@@ -232,13 +232,13 @@
     padding-right: 0px;
     margin-right: 0px;
     line-height: 4rem;
-    color: #0BA7D1;
+    color: #71eded;
 }
 .color-scheme-dark .navbar-link.active, .color-scheme-dark .navbar-rlink.active {
-    color: #fff;
+    color: #eb3534;
 }
 .color-scheme-dark .navbar-link:hover, .color-scheme-dark .navbar-rlink:hover {
-    color: #fff;
+    color: #eb3534;
 }
 
 strong {
