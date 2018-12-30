@@ -10,7 +10,7 @@ title = "Projects"
 * 2018: Initial testing of Shamir Secret Sharing timecapsule
 
 ## BSidesROC:
-* 2018: [See you next year](https://www.bsidesroc.com)
+* 2011-2018: [BSidesROC.com](https://www.bsidesroc.com) 
 
 ## Private Tor Network
 * 2018: Support tagged versions and Kubernetes
